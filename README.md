@@ -1,0 +1,1 @@
+This project explores the impact of remote work on mental health, analyzing data related to work-life balance, stress levels, and mental health conditions. The goal is to understand how working remotely affects employees' well-being and to provide insights for companies looking to improve mental health support in remote work settings.
